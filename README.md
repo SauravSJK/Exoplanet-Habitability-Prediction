@@ -1,5 +1,5 @@
 # Exoplanet-Habitability-Prediction
-Using the NASA Exoplanet Archive and PHL data to predict whether an exoplanet is habitable
+Uses the NASA Exoplanet Archive and PHL data to predict whether an exoplanet is habitable
 
 ## Introduction
 This project used data available in the NASA exoplanet and planetary systems to predict whether an exoplanet is habitable. This data is raw so we have used data-cleaning techniques and approximations to get it into a usable form. We have initially used planet masses, radius, stellar flux, surface temperature, orbital period, and the distances of each planet from its star to check whether it is in the Goldilocks zone. These parameters helped in determining whether the planet lies inside the Goldilocks zone or not. But we have also collected other available data to check whether those parameters could improve the accuracy of the model. Using different models on our cleaned data, we have performed a comparative study for performance and accuracy and have presented our conclusions in the form of a graph.
